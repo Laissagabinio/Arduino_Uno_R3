@@ -3,6 +3,7 @@
 - Led's (07);
 - Potentiometer (01);
 - Resistors (07);
+- Bread board (01);
 
 ## How does it work:
 The potentiometer is a new component used here. In this circuit it's used to control how long the led's will keep on or how long it will take to turn the next led on.
