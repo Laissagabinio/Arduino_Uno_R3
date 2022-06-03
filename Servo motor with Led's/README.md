@@ -15,6 +15,6 @@ It's easier to understand after seeing it working on the TinkerCad https://www.t
 `C++`
 
 ## Circuit
-![Circuit 4(http![Circuit 4 40](https://user-images.githubusercontent.com/89589831/171918631-d280b685-514f-4e64-86c7-5f1ef3f3bcbc.jpeg)
+![Circuit 4 40](https://user-images.githubusercontent.com/89589831/171918631-d280b685-514f-4e64-86c7-5f1ef3f3bcbc.jpeg)
 
 Here is the website to try yourself! https://www.tinkercad.com
