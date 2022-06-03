@@ -16,4 +16,7 @@ After a while, the pedestrians traffic ligh will turn on and off repeatedly, to 
 
 ## Code
 `C++`
+## Circuit
+![Circuit 1](https://user-images.githubusercontent.com/89589831/171906301-a4042a52-1b19-458d-9465-b92bed2cb51b.jpeg)
 
+Here is the website to try yourself! https://www.tinkercad.com/
