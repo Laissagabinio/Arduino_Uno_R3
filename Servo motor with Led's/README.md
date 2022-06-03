@@ -1,23 +1,19 @@
-# First time using the Arduino Uno R3
-I had to know a little bit about circuits to understand better what I had to do and how should I do that
-
-Let's start with a traffic light
-
 ## Materials:
 - Arduino Uno R3 (01);
-- Resistors (06);
-- Button (01);
-- Led (06), it looks better if it's red (02), green(02) and yellow(01);
+- Resistors (02);
+- Positional Micro servo (01);
+- Led's (02);
+- Bread board (01);
 
 ## How does it work:
-That's the first question to be able to code and make it work.
-In this case you will see two different situations, the car traffic light and the pedestrians traffic light. Once you pull the button, the sistem will recieve the sign that someone wants to cross the street and it will turn the traffic for cars in red and the pedestrians in green.
-After a while, the pedestrians traffic ligh will turn on and off repeatedly, to warn them that the light will turn red soon, and turn the cars one green.
+There are two aditional things to understand here before being able to get to the circuit and code. As it says, the Servo motor is a motor and it has 0 and 180 as arguments to witch side it must turn. 
+The conection between the motor and the Led is a "if", when the position of the server is over or less than x (any number you'd like to, if it's between 0 and 180) the Led will turn on or off. 
+It's easier to understand after seeing it working on the TinkerCad https://www.tinkercad.com/things/jaq4lxyoD3V
 
 ## Code
 `C++`
 
 ## Circuit
-![Circuit 3](https://user-images.githubusercontent.com/89589831/171913810-0f233b66-b0d7-47b3-80dc-1ed16d4e6a3a.jpeg)
+![Circuit 4(http![Circuit 4 40](https://user-images.githubusercontent.com/89589831/171918631-d280b685-514f-4e64-86c7-5f1ef3f3bcbc.jpeg)
 
 Here is the website to try yourself! https://www.tinkercad.com
